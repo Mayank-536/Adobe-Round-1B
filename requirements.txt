@@ -1,4 +1,4 @@
-llama-cpp-python==0.3.14;
+llama-cpp-python==0.3.14
 pdfplumber
 pytesseract
 pdf2image
